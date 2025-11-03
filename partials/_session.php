@@ -1,0 +1,10 @@
+<?php
+session_start();
+if(empty($_SESSION['email'])){
+  ?>
+  <script>
+    window.location.href="./";
+  </script>
+  <?php
+}
+?>
