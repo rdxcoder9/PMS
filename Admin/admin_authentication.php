@@ -21,10 +21,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $_SESSION['admin_username'] = $admin['username'];
             echo "<script>alert('Login successful!'); window.location.href='admin_dashboard.php';</script>";
         } else {
-            echo "<script>alert('Incorrect password.'); window.location.href='admin_login.php';</script>";
+            echo "<script>alert('Incorrect password.'); window.location.href='./';</script>";
         }
     } else {
-        echo "<script>alert('Admin account not found.'); window.location.href='admin_login.php';</script>";
+        echo "<script>alert('Admin account not found.'); window.location.href='./';</script>";
     }
 }
 ?>

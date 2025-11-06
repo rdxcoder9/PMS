@@ -20,6 +20,18 @@
       </a>
     </li>
     <li class="nav-item">
+      <a class="nav-link" href="portfolio-select.php">
+        <span class="menu-title">Poortfolio Template</span>
+        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="template-page.php">
+        <span class="menu-title">Word Template</span>
+        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
+      </a>
+    </li>
+    <li class="nav-item">
       <a class="nav-link" href="./edit-profile.php">
         <span class="menu-title">Edit Profile</span>
         <i class="mdi mdi-contacts menu-icon"></i>
@@ -29,6 +41,12 @@
       <a class="nav-link" href="./personal_info.php">
         <span class="menu-title">Personal Information</span>
         <i class="mdi mdi-contacts menu-icon"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="./objective.php">
+        <span class="menu-title">Objective</span>
+        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
       </a>
     </li>
     <li class="nav-item">
@@ -50,12 +68,7 @@
         <i class="mdi mdi-format-list-bulleted menu-icon"></i>
       </a>
     </li>
-    <li class="nav-item">
-      <a class="nav-link" href="./objective.php">
-        <span class="menu-title">Objective</span>
-        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
-      </a>
-    </li>
+    
     <li class="nav-item">
       <a class="nav-link" href="./project.php">
         <span class="menu-title">Project</span>
@@ -95,17 +108,12 @@
     </li>
         <li class="nav-item">
       <a class="nav-link" href="languages-form.php">
-        <span class="menu-title">Language</span>
+        <span class="menu-title">Languages</span>
         <i class="mdi mdi-format-list-bulleted menu-icon"></i>
       </a>
     </li>
 
-    <li class="nav-item">
-      <a class="nav-link" href="template-page.php">
-        <span class="menu-title">Template</span>
-        <i class="mdi mdi-format-list-bulleted menu-icon"></i>
-      </a>
-    </li>
+    
     
   </ul>
 </nav>

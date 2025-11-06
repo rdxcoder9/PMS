@@ -20,19 +20,19 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="/PMS/Admin/user_management.php">
                 <span class="menu-title">Users</span>
                 <i class="mdi mdi-format-list-bulleted menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="resume_upload.php">
                 <span class="menu-title">Portfolio</span>
                 <i class="mdi mdi-format-list-bulleted menu-icon"></i>
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">
+              <a class="nav-link" href="word_resume_upload.php">
                 <span class="menu-title">Templates</span>
                 <i class="mdi mdi-format-list-bulleted menu-icon"></i>
               </a>
